@@ -1,1 +1,1 @@
-# Applied_Info_Security_and_Cryptography_Lab_01
+# Cryptography_Lab_01
